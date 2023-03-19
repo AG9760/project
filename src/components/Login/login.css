@@ -1,0 +1,69 @@
+.loginheading{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 140px;
+    font-family: 'Roboto Slab', italic;
+    color: rgb(202, 116, 116);
+}
+
+.loginbuttons{
+    display: flex;
+    padding: 10px;
+    text-align: center;
+}
+.LoginButton{
+    justify-content: center;
+    padding: 30px;
+    /* margin-left: 130px; */
+}
+
+.loginbuttonstudent{
+    height: 60px;
+    width: 200px;
+    /* padding: 30px; */
+}
+  
+.loginIcon{
+    margin-right: 15px;
+}
+
+.loginbuttonadmin{
+    height: 60px;
+    width: 200px;
+}
+
+.model-heading{
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 100px;
+    font-family: 'Roboto Slab', italic;
+    color: rgb(80, 130, 215);
+}
+
+.login-input-label{
+    text-align: left;
+}
+
+.modellogin{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 50%;
+    margin-left: 26%;
+    justify-content: center;
+}
+
+.form-label{
+    float: left;
+    font-size: large;
+}
+
+/* .emailtext{
+    float: left;
+} */
+
+/* .text-muted{
+    float: left;
+    font-weight: 400;
+} */
